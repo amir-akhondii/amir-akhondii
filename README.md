@@ -28,8 +28,6 @@
   <img width="11" />
   <img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-notext.png" height="50" alt="Docker Compose logo"  />
   <img width="11" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" height="40" alt="git logo"/>
-  <img width="11" />
   <img width="11" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/250px-UbuntuCoF.svg.png" height="40" alt="celery logo"/>
   <img width="11" />
