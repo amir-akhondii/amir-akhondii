@@ -38,6 +38,13 @@
 
 ###
 
+## 🚀 Projects & Achievements
+- Designed and deployed scalable RESTful APIs for multiple SaaS applications 🌐
+- Implemented multi-tenant architecture with Django & PostgreSQL for efficient resource management 🏢
+- Automated testing with PyTest to ensure code quality and reliability ✅
+- Built CI/CD pipelines with Docker & Kubernetes for production environments 🐳☸️
+- Developed real-time features using WebSockets & Celery for async task handling ⚡
+
 <img src="https://raw.githubusercontent.com/amir-akhondii/amir-akhondii/output/snake.svg" alt="Snake animation" />
 
 ###
