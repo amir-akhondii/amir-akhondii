@@ -1,7 +1,9 @@
 ### Hi i'm Amirabbas akhondi<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<p>💻 Passionate Iranian Back-End Developer | Python & Django 🚀
-⚡ Building scalable APIs & web services | Always exploring new tech & creating innovative solutions 🌟</p>
+<p>
+💻 <strong>Passionate Iranian Back-End Developer | Python & Django 🚀</strong><br>
+⚡ Building scalable APIs & web services | Always exploring new tech & creating innovative solutions 🌟
+</p>
 
 ## My Experiences 
 
